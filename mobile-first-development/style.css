@@ -36,3 +36,16 @@ h3 {
 .item-double {
   flex: 2;
 }
+body {
+  background-color: red;
+}
+
+/* This applies from 600px and larger */
+@media all and (min-width: 600px) {
+  body {
+    background-color: green;
+  }
+}
+main img {
+  width: 100%;
+}
