@@ -23,6 +23,7 @@ header nav ul {
   display: flex;
   padding-left: 0;
   list-style: none;
+  margin-bottom: 50px;
 }
 
 header nav ul li a{
